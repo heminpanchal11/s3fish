@@ -19,7 +19,7 @@ http://www.microsoft.com/downloads/details.aspx?familyid=10cc340b-f857-4a14-83f5
 
 = Installing S3Fish =
 
-1. Download S3Fish from the above given URL
+1. Download S3Fish (http://s3fish.googlecode.com/files/S3Fish_SetUp_1.0_Pre%20Beta.exe)
 
 2. Run the setup and follow the instructions in the wizard to complete the setup
 
