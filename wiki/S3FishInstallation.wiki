@@ -1,4 +1,4 @@
-# This page provides s3fish installation instructions
+This page provides s3fish installation instructions
 
 = Introduction =
 
