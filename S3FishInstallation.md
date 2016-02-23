@@ -1,0 +1,27 @@
+This page provides s3fish installation instructions
+
+# Introduction #
+
+S3Fish installer can be downloaded in the following URL.The installation works fine in Windows XP and Vista.
+
+http://s3fish.googlecode.com/files/S3Fish_SetUp_1.0_Pre%20Beta.exe
+
+
+# Pre-requisites #
+
+You need .NET 3.0 should be installed on your machine. The installer verifies the existence of .NET 3.0 and tries to install automatically if it does not exist.
+
+You need to have admistrative priviledges to install the software. IF you are Vista user run the installer as Administrator.
+
+Alternatively .NET 3.0 can be installed from the following URL.
+
+http://www.microsoft.com/downloads/details.aspx?familyid=10cc340b-f857-4a14-83f5-25634c3bf043&displaylang=en
+
+# Installing S3Fish #
+
+1. Download S3Fish (http://s3fish.googlecode.com/files/S3Fish_SetUp_1.0_Pre%20Beta.exe)
+
+2. Run the setup and follow the instructions in the wizard to complete the setup
+
+
+
